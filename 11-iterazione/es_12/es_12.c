@@ -5,6 +5,8 @@
 * @param argc, lunghezza del array argv
 * 
 * @param argv, array dove vengono inseriti dei dati da terminale
+* 
+* @return returna sempre 0 se il programma funziona
 */
 int main(int argc, char *argv[])
 {
